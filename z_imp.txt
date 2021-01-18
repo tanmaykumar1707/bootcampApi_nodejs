@@ -16,3 +16,22 @@ npm run start - run start command
 confifure dotenv
 create config folder and config.js
 
+
+morgan - middleware for logger 
+npm i morgan
+
+
+nmp i colors - coloring the text in console
+
+//****************//
+Postman
+Password: postMan(1705)
+
+
+Mongodb
+Password: mongoDb(1705)
+Db User:user_tanmay Pass: user_tanmay
+
+
+
+//***************//
